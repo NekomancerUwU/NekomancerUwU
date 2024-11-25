@@ -1,8 +1,8 @@
 - Hi, I’m The @NekomancerUwU
 - im trying to learn more about computers and coding
 - I’m currently learning python and network engineering
-- 📫 How to reach me:I may let u know if I know u
-- 😄 Pronouns: she/they/it
+- How to reach me:I may let u know if I know u
+- she/they/it
 - ⚡ Fun fact:i love fallout,destiny,skyrim,and Astronomy
 
 <!---
